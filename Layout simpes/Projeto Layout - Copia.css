@@ -1,0 +1,17 @@
+.col {
+    height: 200px;
+    border: 1px solid blueviolet;
+    margin: 10px;
+}
+
+.lilas{
+    background-color: lightslategrey;
+}
+
+.preto{
+    background-color: black;
+}
+
+.container{
+    margin: 20px 0 0 0;
+}
