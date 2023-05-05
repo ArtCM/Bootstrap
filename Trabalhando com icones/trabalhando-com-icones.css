@@ -1,0 +1,9 @@
+.background{ background-color: black;}
+
+.background-baloon{ background-color: rgba(255, 255, 255, 0.711); border-radius: 20px; height: 16em;}
+
+.container .bi{color: white;}
+
+.bi{font-size: 7em; padding-left: 1.8em;}
+
+.row p{font-size: 20px; padding-right: 2.5em; padding-top: 1.1em;}
